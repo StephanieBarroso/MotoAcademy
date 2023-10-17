@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open titulo.html",
-            "file": "/home/aluno/HTML/titulo.html"
+            "name": "Open indexaula2.html",
+            "file": "/home/aluno/Projetos/MotoAcademy/HTML/indexaula2.html",
         }
     ]
 }
